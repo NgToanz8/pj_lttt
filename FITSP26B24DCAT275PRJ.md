@@ -125,7 +125,7 @@ CyclicCode: Chứa tham số chiều dài l, k và đa thức sinh g_x. Triển 
 +----------------------+
 | Trả về phần dư p(x)  |
 +----------------------+
-## 5. Xử lý ngoại lệ (Error Handling)
+## 5. Kiểm tra tính đúng đắn
 + Chương trình triển khai 3 chốt chặn kiểm tra chặt chẽ tính chuẩn xác của mã vòng. Nếu vi phạm bất kỳ điều kiện nào, chương trình lập tức in ra Error và dừng lại:
 Bậc của đa thức sinh g(x) phải đúng bằng l - k.
 
